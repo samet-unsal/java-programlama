@@ -1,2 +1,2 @@
 # java-programlama
-java programlama dili ile nesneye yönelim programlama temelleri içerikli dökümanların bulunduğu github sayfası
+İGÜ - İSTKA Siber Akademi Projesi kapsamında Java programlama dili ile nesne yönelimli programlama temelleri içerikli uygulama örnekleri bulunmaktadır.
